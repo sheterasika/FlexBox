@@ -26,3 +26,17 @@ p{
     display: flex;
     flex-direction: row-reverse;
 }
+.container2{
+    height: 900px;
+    width: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction:column;
+}
+.container3{
+    height: 900px;
+    width: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction:column-reverse;
+}

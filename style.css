@@ -40,3 +40,45 @@ p{
     display: flex;
     flex-direction:column-reverse;
 }
+.container4{
+    height: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.container5{
+    height: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.container6{
+    height: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container7{
+    height: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container8{
+    height: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.container9{
+    height: 250px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

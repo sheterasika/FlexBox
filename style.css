@@ -82,3 +82,24 @@ p{
     flex-direction: row;
     justify-content: space-around;
 }
+.container10{
+    height: 350px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+.container11{
+    height: 350px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+.container12{
+    height: 350px;
+    background-color:teal;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
